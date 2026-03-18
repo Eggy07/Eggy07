@@ -35,6 +35,24 @@
 
 <div align="center">
 
+## ◈ CURRENT STATUS ◈
+
+</div>
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  🔭 Working on  : SaaS dashboard + REST API              ║
+║  🌱 Learning    : Rust · WebAssembly · Edge Functions    ║
+║  👯 Open to     : Freelance & Collaboration              ║
+║  💬 Ask me about: React, Node.js, System Architecture    ║
+║  ⚡ Fun fact    : I debug with console.log and no shame  ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+---
+
+<div align="center">
+
 ## ◈ TECH STACK ◈
 
 ### ▸ Frontend
@@ -71,6 +89,67 @@
 
 <div align="center">
 
+## ◈ FEATURED PROJECTS ◈
+
+</div>
+
+<div align="center">
+
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| 🚀 **NexusBoard** | Real-time SaaS analytics dashboard with multi-tenant support | Next.js · PostgreSQL · Redis | `LIVE` |
+| 📱 **PulseApp** | Cross-platform fitness tracker with AI-powered recommendations | React Native · Node.js · MongoDB | `IN DEV` |
+| 🔐 **AuthForge** | Plug-and-play authentication system with OAuth2 & JWT | Express · TypeScript · Docker | `OPEN SOURCE` |
+| 🌐 **ShopFlow** | Headless e-commerce engine with GraphQL API | Next.js · GraphQL · Stripe | `LIVE` |
+| 🤖 **SyncBot** | Slack + Notion automation bot for team workflows | Python · Flask · Webhooks | `STABLE` |
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ EXPERIENCE TIMELINE ◈
+
+</div>
+
+```
+2024 ──── Senior Full Stack Developer @ Freelance
+           └── Built 10+ production apps across PH & global clients
+
+2023 ──── Full Stack Developer @ Tech Startup
+           └── Led frontend architecture for a SaaS platform (50k+ users)
+
+2022 ──── Junior Developer → Mid-level Promotion
+           └── React Native mobile apps · REST API design
+
+2021 ──── Started Professional Dev Career
+           └── First freelance project: e-commerce store (still running)
+
+2019 ──── Self-taught Journey Begins
+           └── HTML → CSS → JS → never looked back
+```
+
+---
+
+<div align="center">
+
+## ◈ METRICS ◈
+
+</div>
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  📦 Repos         :  42          🌟 Stars earned  :  318 ║
+║  🔀 PRs merged    :  200+        🐛 Issues closed :  150+║
+║  ☕ Coffees/day   :  3           🌙 Late nights   :  ∞   ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+---
+
+<div align="center">
+
 ## ◈ GITHUB STATS ◈
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kentz&show_icons=true&theme=synthwave&bg_color=1a0533&title_color=e879f9&icon_color=a855f7&text_color=f0abfc&border_color=6b21a8&border_radius=10" />
@@ -83,6 +162,20 @@
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kentz&bg_color=1a0533&color=e879f9&line=a855f7&point=f0abfc&area=true&area_color=6b21a8&border_color=6b21a8" />
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ CONNECT ◈
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23E879F9?style=for-the-badge&logo=vercel&logoColor=1a0533)](https://kentz.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23a855f7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kentz)
+[![Twitter](https://img.shields.io/badge/Twitter-%23e879f9?style=for-the-badge&logo=twitter&logoColor=1a0533)](https://twitter.com/kentz_dev)
+[![Email](https://img.shields.io/badge/Email-%23a855f7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@kentz.dev)
+[![Discord](https://img.shields.io/badge/Discord-%23E879F9?style=for-the-badge&logo=discord&logoColor=1a0533)](https://discord.gg/kentz)
 
 </div>
 
